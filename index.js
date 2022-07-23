@@ -80,5 +80,5 @@ app.delete("/koleksiDoa/:id", async (req, res) => {
 });
 
 app.listen(5000, () => {
-  console.log("meaning-of-life-api server is running on port 5000");
+  console.log("meaning-of-life-api server is running on port 5000 ok");
 });
